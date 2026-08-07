@@ -1,7 +1,8 @@
 # Nir Mandelker
 
-I build models that explain complex systems, and the pipelines that test them
-at terabyte scale. Fourteen years in computational astrophysics. Seattle area.
+I develop first-principles analytical and numerical models that explain
+complex systems, and design and build the pipelines that test them at
+terabyte scale. Fourteen years in computational astrophysics. Seattle area.
 
 Assistant Professor at the Hebrew University of Jerusalem and currently
 Visiting Scholar at UW Seattle; before that, postdoctoral fellowships at Yale,
@@ -9,7 +10,7 @@ the Heidelberg Institute for Theoretical Studies, and KITP/UC Santa Barbara.
 
 ### [scientific-computing-portfolio](https://github.com/nmandelker/scientific-computing-portfolio)
 
-Six projects, written for technical readers with no astrophysics background:
+Five projects, written for technical readers with no astrophysics background:
 
 - **Giant clumps in young galaxies** (three linked projects). Detection,
   tracking, and classification of transient structures in ~100 TB of
@@ -28,12 +29,16 @@ Six projects, written for technical readers with no astrophysics background:
 - **Cosmic web refinement.** Novel refinement methods for resolving low-density 
   intergalactic gas in a moving-mesh simulation code, that every previous simulation left 
   under-resolved, developed in collaboration with the code's author. 
-- **Prompt framing in a language model.** Self-directed work outside my
-  research: studying where and how inside a transformer a rephrased question changes 
-  the answer.
 
 Each project README explains the design decisions behind the code and how the
 results were checked.
+
+### [llm-confidence-probing](https://github.com/nmandelker/llm-confidence-probing)
+
+Python, PyTorch, and Hugging Face, in its own repository and runnable end to
+end. Four experiments on a small open-weights model, asking where inside the
+network a rephrased question changes the answer. Self-directed work outside my
+research, from a few days of teaching myself the stack.
 
 ### Background
 
