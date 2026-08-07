@@ -42,6 +42,7 @@ research, from a few days of teaching myself the stack.
 
 ### Background
 
+- Physics content contractor at Mercor (2026): designing, reviewing, and evaluating graduate- and research-level physics problems to stress-test LLM reasoning and identify failure modes in advanced scientific domains
 - 60+ peer-reviewed publications, 6,000+ citations, h-index 36, 100+ lectures at international conferences and symposia
 - $1M+ in competitive research grants
 - Led a research group of up to 10 students and postdocs for five years
