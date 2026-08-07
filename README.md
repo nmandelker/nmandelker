@@ -7,6 +7,9 @@ terabyte scale. Fourteen years in computational astrophysics. Seattle area.
 Assistant Professor at the Hebrew University of Jerusalem and currently
 Visiting Scholar at UW Seattle; before that, postdoctoral fellowships at Yale,
 the Heidelberg Institute for Theoretical Studies, and KITP/UC Santa Barbara.
+I also work with Mercor as a physics content contractor, designing and
+evaluating research-level physics problems that stress-test LLM reasoning
+and identify its failure modes.
 
 ### [scientific-computing-portfolio](https://github.com/nmandelker/scientific-computing-portfolio)
 
@@ -42,7 +45,6 @@ research, from a few days of teaching myself the stack.
 
 ### Background
 
-- Physics content contractor at Mercor (2026): designing, reviewing, and evaluating graduate- and research-level physics problems to stress-test LLM reasoning and identify failure modes in advanced scientific domains
 - 60+ peer-reviewed publications, 6,000+ citations, h-index 36, 100+ lectures at international conferences and symposia
 - $1M+ in competitive research grants
 - Led a research group of up to 10 students and postdocs for five years
