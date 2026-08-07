@@ -1,11 +1,10 @@
 # Nir Mandelker
 
-Computational astrophysicist moving into industry research. Seattle area.
+I build models that explain complex systems, and the pipelines that test them
+at terabyte scale. Fourteen years in computational astrophysics. Seattle area.
 
-Fourteen years building analytical and numerical models for complex systems, 
-designing simulation pipelines and analysis tools for terabyte-scale scientific 
-data. Assistant Professor at the Hebrew University of Jerusalem and currently 
-Visiting Scholar at UW Seattle; before that, postdoctoral fellowships at Yale, 
+Assistant Professor at the Hebrew University of Jerusalem and currently
+Visiting Scholar at UW Seattle; before that, postdoctoral fellowships at Yale,
 the Heidelberg Institute for Theoretical Studies, and KITP/UC Santa Barbara.
 
 ### [scientific-computing-portfolio](https://github.com/nmandelker/scientific-computing-portfolio)
