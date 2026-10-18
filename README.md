@@ -9,7 +9,8 @@ Visiting Scholar at UW Seattle; before that, postdoctoral fellowships at Yale,
 the Heidelberg Institute for Theoretical Studies, and KITP/UC Santa Barbara.
 I also work with Mercor as a physics content contractor, designing and
 evaluating research-level physics problems that stress-test LLM reasoning
-and identify its failure modes.
+and identify its failure modes, and I am a mentee in the SPAR Fall 2026
+research program, working on red-teaming and robustifying model self-reports.
 
 ### [scientific-computing-portfolio](https://github.com/nmandelker/scientific-computing-portfolio)
 
@@ -35,6 +36,18 @@ Five projects, written for technical readers with no astrophysics background:
 
 Each project README explains the design decisions behind the code and how the
 results were checked.
+
+### [Model_Welfare_Assessment](https://github.com/nmandelker/Model_Welfare_Assessment)
+
+Python, runnable end to end. A pipeline that reproduces the automated "welfare
+interviews" described in Anthropic's Claude system cards: an interviewer model
+questions a target model about its own situation (memory, consciousness,
+deprecation, being evaluated), in two styles, and a judge model rates the
+answers and extracts every claim the target makes about itself with a verbatim
+quote. The judge was calibrated against my own blind ratings before being
+trusted, which changed the rubric, the categories, and the choice of judge.
+Built for my SPAR Fall 2026 project; results are held pending the mentors'
+review.
 
 ### [llm-confidence-probing](https://github.com/nmandelker/llm-confidence-probing)
 
