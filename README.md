@@ -2,7 +2,7 @@
 
 I develop first-principles analytical and numerical models that explain
 complex systems, and design and build the pipelines that test them at
-terabyte scale. Fourteen years in computational astrophysics. Seattle area.
+terabyte scale. Fifteen years in computational astrophysics. Seattle area.
 
 Assistant Professor at the Hebrew University of Jerusalem and currently
 Visiting Scholar at UW Seattle; before that, postdoctoral fellowships at Yale,
