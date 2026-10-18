@@ -10,7 +10,8 @@ the Heidelberg Institute for Theoretical Studies, and KITP/UC Santa Barbara.
 I also work with Mercor as a physics content contractor, designing and
 evaluating research-level physics problems that stress-test LLM reasoning
 and identify its failure modes, and I am a mentee in the SPAR Fall 2026
-research program, working on red-teaming and robustifying model self-reports.
+research program, working on red-teaming and robustifying model self-reports. 
+I have also recently completed a BlueDot AGI Strategy intensive course.
 
 ### [scientific-computing-portfolio](https://github.com/nmandelker/scientific-computing-portfolio)
 
